@@ -86,7 +86,7 @@ ul, ol {
 .heading-2 {
     margin-top: 0px;
     margin-bottom: 16px;
-    font-family: Raleway, sans-serif;
+    font-family: 'Raleway', sans-serif;
     color: #333;
     font-size: 40px;
     font-weight: 500;
@@ -148,7 +148,7 @@ ul, ol {
 }
 
 .paragraph {
-    font-family: Raleway, sans-serif;
+    font-family: 'Work Sans', sans-serif;
     font-size: 16px;
     line-height: 24px;
     font-weight: 500;
